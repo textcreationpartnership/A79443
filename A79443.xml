@@ -1,0 +1,337 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The lamb contending with the lion. By Christopher Chisman, a free commoner of England, who was unjustly apprehended (contrary to the law,) and detained prisoner in White Hall 18. daies, without any crime laid to his charge, as in this ensuing discourse is further manifested. Whereunto is annexed a letter sent by the foresaid Cornet Chisman, to the Lievt. Gen. Cromwel: with his answer thereunto.</title>
+            <author>Cheesman, Christopher.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79443</idno>
+            <idno type="STC">Wing C3773A</idno>
+            <idno type="STC">Thomason E563_10</idno>
+            <idno type="STC">ESTC R204571</idno>
+            <idno type="EEBO-CITATION">99864045</idno>
+            <idno type="PROQUEST">99864045</idno>
+            <idno type="VID">165254</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79443)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165254)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 87:E563[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The lamb contending with the lion. By Christopher Chisman, a free commoner of England, who was unjustly apprehended (contrary to the law,) and detained prisoner in White Hall 18. daies, without any crime laid to his charge, as in this ensuing discourse is further manifested. Whereunto is annexed a letter sent by the foresaid Cornet Chisman, to the Lievt. Gen. Cromwel: with his answer thereunto.</title>
+                  <author>Cheesman, Christopher.</author>
+               </titleStmt>
+               <extent>[20] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the same authority which caused the Army to oppose the Parliament,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>in the year 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Signatures: A-B⁴ C² .</note>
+                  <note>Annotation on Thomason copy: "July ye 10th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Civil rights --  England --  Early works to 1800.</term>
+               <term>Detention of persons --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165254:1" rendition="simple:additions"/>
+            <p>THE LAMB Contending with the LION.</p>
+            <p>By <hi>Chriſtopher Chiſman,</hi> a Free Commoner of Eng<g ref="char:EOLhyphen"/>land<g ref="char:punc">▪</g> who was unjuſtly apprehended (contrary to the Law,) and detained priſoner in White Hall 18. daies, without any crime laid to his charge, as in this enſuing diſcourſe is further manifeſted.</p>
+            <p>Whereunto is annexed a Letter ſent by the foreſaid Cornet <hi>Chiſ<g ref="char:EOLhyphen"/>man,</hi> to the Lievt. Gen. <hi>Cromwel:</hi> with his Anſwer thereunto.</p>
+            <q>
+               <p>
+                  <bibl>
+                     <hi>Rom. 2.1.</hi>
+                  </bibl> Therefore thou art in-excuſable O man, whoſoever thou art, that Judgeſt: for wherein thou judgeſt another thou con<g ref="char:EOLhyphen"/>demneſt thy ſelf, for thou that judgeſt doſt the ſame things.</p>
+               <p>
+                  <bibl>
+                     <hi>Verſ. 3.</hi>
+                  </bibl> And thinkeſt thou this O man, that judgeſt them which do ſuch things, and doſt the ſame, that thou ſhalt eſcape the judge<g ref="char:EOLhyphen"/>ment of God.</p>
+            </q>
+            <p>Printed by the ſame Authority which cauſed the Army to oppoſe the Parliament, in the year 1649.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:165254:2"/>
+            <head>An Epiſtle to all Impartial and Un-byaſſed people of Eng<g ref="char:EOLhyphen"/>land, who deſire to live within the bounds of Law and Reaſon, and would not have their ears bored thorow, to become ſlaves for ever to the luſts of any man what<g ref="char:EOLhyphen"/>ſoever.</head>
+            <p>MY earneſt deſire is, that all ſuch rational people of this my Native Country, would condole with me, the deplorable condition of this our bleeding Nation; as alſo, how ſad it is with all the honeſt true-hearted Engliſhmen, whoſe ends firſt in war, were not for the captivating any particular party, other<g ref="char:EOLhyphen"/>wiſe than in order to Iuſtice: for my part, I confeſs I have faithfully ſerved my Country for ſeven yeers paſt, under the command of the Parliament, againſt the late King and his Evil Councel (and truly it may well be ſaid ſo, for I believe the man of himſelf would <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have ruined himſelf) neither did my ſelf, with divers others, the fight any otherwiſe, than to accompliſh impartial Iuſtice, which were the only engagements the Parliament laid upon us to carry us forth to fight againſt tyranie in the late King; and truly, had the King bin contented to have lived within the bounds of Law; he might have lived till now: It followeth, if arbytrarineſs took off the Kings head, the next man tracing his ſteps, ſhould alight at the ſame Harbour.</p>
+            <p>And I know there is no honeſt man that ever had any thoughts of fighting againſt Perſons, but Principles of injuſtice and unrighteous actings of men; which in the very height thereof, the Parliament and Army had no other Sanctuary to fly to, but their Vows and Pro<g ref="char:EOLhyphen"/>teſtations, what they would do if God would but deliver them from their enemies; imprecating the wrath and vengeance of heaven and earth to fall upon them, if they did not diſtribute impartial Iuſtice amongſt the people. In which Declaration they poſitively declare, they are fully reſolved to maintain, and ſhall and will preſerve and keep the fundamental Laws of this Nation, for and concerning the preſervation of the lives, proprieties and liberties of the people, with all things incident thereunto.</p>
+            <p>Did not theſe declared Principles raiſe an Army of conſcientious men, who according to ſound judgment, in Conſcience took up Arms for the wel-being of the Nation? and did not many thouſand upon
+<pb facs="tcp:165254:2"/> that account bring in their plate, with their bodkins and ſpoons, who want bread now for want of a ſettlement in the Nation? And did not the mighty God prompt the ſpirits of people to theſe things, to the end we ſhould not live like the Heathen, without Laws, and bounda<g ref="char:EOLhyphen"/>ries; but, that as we profeſs our ſelves to be regulated by that word of truth, ſo we may really be what we ſeem to be? The Religion of the great Ones of our Age, is a meer ſhadow, and all their pulpit-pratling is nothing; They are onely Wolves in Sheeps-clothing; they are Devils transformed into Angels of light: but pure Religion and undefiled, is to viſit the fatherleſs and widow, and to keep our ſelves unſpoted of the world; which the great Profeſſors of our times will not do I am ſure; for they add houſe to houſe, land to land, nay thou<g ref="char:EOLhyphen"/>ſands to ten thouſands; whiles the poor of the Kingdom are ready to ſtarve: yea, thoſe uſurpers of the name of Chriſtians, who have ſate in Councel, and cut off the heads of men for Tyranie, exerciſe more tyranie over the people than they: witneſs the chiefeſt of all formal Profeſſors in England, <hi>viz.</hi> Lieut. Gen. <hi>Cromwel,</hi> who moſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mpudently committed an higher act of Tyranie (all things conſider<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d) than our late King, in the very place where he ſate in judgement <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gainſt the late King, and the others, who died alſo for tyranical <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctions: So that it is apparent, that the Lieut. Gen. is condemned <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oth by M. Solicitor <hi>Saint-John,</hi> and M. <hi>Pym</hi> in their ſpeeches <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n Parliament, againſt the Earl of Strafford, for ſaith the firſt, <hi>Arbytrarineſs doth make a man (or Nation) as miſerable as man or <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aw could make him:</hi> How miſerable it will make the Lieut. Gen. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will leave for future times to determinate; and experience teach<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th us the truth of M. <hi>Pyms</hi> words, <hi>that Arbytrarineſs is the ſemi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ary of all evil, which cauſes diſtempers, and the conſumption of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ivil wars;</hi> for ſaith he, <hi>when Envie, Luſt, Covetouſneſs, and Am<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ition becometh Laws, it is the cauſe of all Cruelties, Bloud, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onfuſion, and is juſtly to be laid upon the unjuſt;</hi> and this is that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will live and dy in, for I am the ſame both for my Country and my <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lf which I first engaged for; and truly, I were not fit to live, if I <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould prove my ſelf ſuch an hypocrite, as to pretend to fight for ju<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ce ſeven yeers, devouring my native Country, and eating up the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ead of the hungry, for ſo we were forced to do, many of us having <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t above ſix weeks pay in a yeer to maintain horſe and man, and af<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r ſeven yeers war, and hard ſervice in bloud, ſuffering hunger and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld, which thouſands of us have done, being very willing to poſſeſs
+<pb facs="tcp:165254:3"/> the promiſed good things, both from the Parliament and the Army, eſpecially the Army in their glorious Declaration of <hi>June 14. 1647.</hi> p. <hi>40, 41.</hi> wherein they expreſs their diſlike of Arbytrarineſs in any perſon or perſons whatſoever, declaring it to all the world, that to carry on a teſtimony againſt the injuſtice and unrighteouſnes of men, is one of the witneſſes of God in the world. Now I ſay, that to fight in the field againſt Arbytrarineſs, and to ſuffer it reigne in the very place of the Civil Magiſtracy, is but to cheat and cozen our Native Country-men, who have labored hard to maintain all that are in publike employment, therefore I ſhall quit my ſelf of all the miſery that is like to come upon the land of our Nativity, unleſs juſtice take place; and I do humbly crave juſtice againſt M. <hi>Oliver Cromwel</hi> Lieut. Gen. to the Engliſh Forces, and if I cannot have juſtice, I ſhall conclude, that either the Parliament dare not, or will not do me juſtice; which if they dare not, I am heartily ſorry for it, and would be willing to loſe my life in gaining their freedom: if they will not, then from the knowledge I have of their Declarations, Proteſtations, and Imprecations, I ſhall be forced to believe that they are perjured men: and according to M. <hi>John Cook</hi> their Solicitor General in King <hi>Charles</hi> his caſe ſtated, and is moſt true, <hi>That in condemning the King for Tyranie, they have already paſt ſentence againſt them<g ref="char:EOLhyphen"/>ſelves for Tyranie, when ever they are found in the path thereof.</hi> Therefore oh houſe of Parliament, do juſtice, and ſave your ſelves and the Nation: And, oh all you true-hearted people of England, be wiſe, and do juſtice upon all the <hi>Achans,</hi> ſend them after the late King, and then ſtick cloſe to the Agreement put forth by our friends <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the Tower, That we may not ſee the land of our Nativity utterly waſted, and our wives and children deſtroyed before our faces, but that we may compoſe differences: and in ſo doing, ws ſhall render our ſelves unto the world, to be a wiſe people.</p>
+            <closer>
+               <signed>
+                  <hi>Thine and the Nations to ſerve in love,</hi> Chriſtopher Chiſman.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="narrative">
+            <pb facs="tcp:165254:3"/>
+            <head>A Narrative of the illegal and unjust proceedings of Lieut. Gen. <hi>Cromwel,</hi> and the Court Martial, to Cornet <hi>Chiſman.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">D</seg>Ear Countrymen, and Fellow Commonners: The Law of God, the Law of Nature, and the fundamen<g ref="char:EOLhyphen"/>tal Laws of our Native Country, are the ſtrongeſt in<g ref="char:EOLhyphen"/>gagements which binds together all true-hearted Engliſh men, and is that threefold cord which is not eaſily broken, and is appointed by the wiſdom of him who rules all the world, to be for the well-being thereof, as the pillar of fire before the Iſraelites with the path they walked in, and the cloud be<g ref="char:EOLhyphen"/>hind them; all which made a perfect Guard for their well-being whiles they were paſſing through the turbulent ſea, So our graci<g ref="char:EOLhyphen"/>ous God hath provided for us in this our Native Country, from one age to another, ſuch wholeſome Lawes by which we are to be go<g ref="char:EOLhyphen"/>verned, that ſo no man ſhould walk by an unlimitted Power.</p>
+            <p>If we look back to no farther time then the third year of the raigne of the late King, which was the worſt of our age, till ſince, yet then were we refreſhed with the grant of our <hi>Petition of Right;</hi> in which there is ſo much ſafety provided for the People.</p>
+            <p>But ſince that, we have had an other opportunity put into our hands, and being very willing to get out of bonds; as alſo being inſtigated by thoſe who call themſelves the Miniſters of Chriſt, to go forth, and fight for a more perfect freedom; telling us that the reward of our labours ſhould be impartial Juſtice, and righteouſ<g ref="char:EOLhyphen"/>neſſe among men: and in order thereunto, there hath been much precious Blood and Treaſure waſted, almoſt to the ruine and deſo<g ref="char:EOLhyphen"/>lation of this the Land of our Nativity.</p>
+            <p>But inſtead thereof we find nothing but cruelty and oppreſſion: Men profeſſing the higheſt principles of Juſtice, as in words, but their actions demonſtrate the contrary, which I am able to clear to all unbiaſed people in the world, who will not willingly proſtrate themſelves ſlaves, to men whoſe Law is their Wills: And therefore my dear friends and Country men, there being an opportunity put into my hands, wherein I muſt either ſtoop to Tyranny, and ſo be<g ref="char:EOLhyphen"/>tray my own with the Nations Liberties, or els give teſtimony to
+<pb facs="tcp:165254:4"/> the World of my faithfullneſſe to principles of Juſtice and righte<g ref="char:EOLhyphen"/>ouſneſſe amongſt men: which hath carried forth the un-intereſted people of all ages to contend with the Princes of this world, for their Native Liberties and Freedoms which the moſt ſacred Maje<g ref="char:EOLhyphen"/>ſty of heaven and earth hath beſtowed on them as their inheritance and birth-right, for their comfortable and well being whilſt they are upon the face of the Earth.</p>
+            <p>I ſhall give you a true Narrative of the moſt cruel actings of men in Authoritie, both towards poor Capt. <hi>Bray,</hi> and my ſelf; after our faithfull ſervice to this poor bleeding Nation.</p>
+            <p>He was firſt taken from his Troop about the 20 of March, 1648. there being no cauſe ſhewed for it, only the pleaſure of the Gene<g ref="char:EOLhyphen"/>ral: he deſiring very earneſtly of the General that he would doe him Juſtice, and that he would not take away his Troop before the buſineſſe was decided before a Councel: but the General not admitting of it, Capt. <hi>Bray</hi> told him that then he muſt appeal to the Parliament: which accordingly he did, and preſented an hum<g ref="char:EOLhyphen"/>ble claim of Juſtice, to the ſupreme Authority of the Nation, the Commons aſſembled in Parliament, againſt <hi>Thomas</hi> Lord <hi>Fairfax,</hi> the which being debated in the Houſe of Parliament, they preſently committed Capt. <hi>Bray</hi> to the Caſtle of Windſor, there to continue during pleaſure: which was about the beginning of March, 1649. and there he hath continued till this very day, without a penny of allowance: though it be well known that Capt. <hi>Bray</hi> hath been very free in his expences for the publique good, in this time of war, even to his utter impoveriſhment: beſides the keeping of his Troop together for the ſervice of the State, all the laſt winter, which was at leaſt an hundred pounds dammage, with the loſſe of at leaſt forty pounds in Horſes, by reaſon of his being ſo unjuſtly taken from his Troop, without any ſatisfaction, which after the ſpending of his Eſtate in the Parliaments ſervice, to be caſt into priſon for only deſiring Juſtice, and there to ly without any thing allowed him for his ſubſiſtance, which is nothing els but to ſtarve him in a priſon, did not ſome mercifull people contribute towards his ſubſiſtance.</p>
+            <p>My ſelf comm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng accidentally by Windſor, the 22. of May laſt, with a great deal of difficulty at laſt came to the ſight of him, who deſired me very earneſtly to carry his third Appeal for Juſtice, to the Parliament Houſe, wherein was expreſſed four things; <hi>viz.</hi>
+            </p>
+            <p n="1">
+               <pb facs="tcp:165254:4"/>1. That he might either have a fair and Legal tryal. Or els,</p>
+            <p n="2">2. To be diſcharged from his moſt cruel and cloſe impriſonment, where he is kept from the ſociety of Friends. Or,</p>
+            <p n="3">3. That he might have an allowance for his ſubſiſtance, ſutable to what his imployment and faithfullneſſe hath been in the ſervice of the Common W<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al. Or,</p>
+            <p n="4">4. That if neither of theſe might be allowed him, then his deſire was, that they would allow him a conſiderable ſum of his own Ar<g ref="char:EOLhyphen"/>rears, due to him for his almoſt ſeven years ſervice in the Common-Weal, whilſt he is their cauſeleſſe Captive and Priſoner.</p>
+            <p>And accordingly, to his deſire, I took my journey from VVind<g ref="char:EOLhyphen"/>ſor, to London; and Saturday the 26 of May laſt, I addreſſed my ſelf to the Speaker of the Parliament: and coming to the Parlia<g ref="char:EOLhyphen"/>ment dore, I met with the Sergeant at Armes, to whom I impar<g ref="char:EOLhyphen"/>ted the ſubſtance of my buſineſſe, which I had to the Speaker: So the Gentleman told me that he would give me direction to go to the Speaker, and accordingly went along with me, through the Houſe of Commons, up into the Committee-Chamber, where the Speaker was (it being about eight or nine of the clock, and before the Houſe ſat) I preſented Capt. <hi>Brayes</hi> Letter, with his Appeal incloſed, which the Speaker received; and read the Letter, with part of the Appeal; and ſaid he was ſorry for Capt. <hi>Bray.</hi> I an<g ref="char:EOLhyphen"/>ſwered him, that I knew Capt. <hi>Bray</hi> had been a faithfull man to the Nation, and that he had never falſified his truſt to that Honourable Houſe: but that he was under very great oppreſſions, and did de<g ref="char:EOLhyphen"/>ſire Juſtice. And I told him that it was my deſire that impartial Juſtice ſhould take place; and if Capt. <hi>Bray</hi> did deſerve to be hang'd, let him be hang'd. The Speaker anſwered me, That Capt. <hi>Bray</hi> talkt altogether of Juſtice and Righteouſneſſe to be within his own breaſt. Sir, (ſaid I,) his Appeal to this Houſe demonſtrates the contrary. But he ſaid ſo to me ſaid the Speaker. Its true Sir, (ſaid I,) if Righteouſneſſe and Juſtice were not in your own breaſt, how could you determine any cauſe that comes before you? It is truth, ſaid the Speaker. Then Sir (ſaid I) it is to be expected in this Houſe as in the groſſe. So he asked me what my name was? I told him <hi>Chiſman;</hi> and that I had been Capt. <hi>Brayes</hi> Cornet. He anſwered very lovingly, and told me that he would do what he could in the buſineſſe; and that he would propoſe it to the Houſe. So I gave him hearty thanks, and took my leave of him.</p>
+            <pb facs="tcp:165254:5"/>
+            <p>I came forth, and waited (at the dore, and in Weſtminſter Hall,) till the Houſe did riſe, at which time I being walking in the Hall, the Speaker coming by with his Guard, I went to him, and asked him whether he had done any thing for Capt. <hi>Bray?</hi> He anſwer<g ref="char:EOLhyphen"/>ed me No.</p>
+            <p>I preſently looked about toward my left hand, and eſpyed the Lievt. General, who ſaid to me is your name <hi>Chiſman?</hi> Yes Sir: (ſaid I.) Take him Guard, (ſaid he) ſpeaking with a very violent Voice: and accordingly the Guard of Halberdeers came running very greedily like ſo many Lions to their prey, pulling and pun<g ref="char:EOLhyphen"/>ching of me: I gave them very fair words, beſeeching them as Gentlemen not to punch me, for I would go willingly with them: but the Lievt. General being cloſe by, cryed out very vehemently, Do punch him, punch him on. The Speaker being very neer ſo that neither my ſelf nor the Guard, could go any further, ſo that it was very clear to me that what <hi>Cromwel</hi> did, was meerly in ma<g ref="char:EOLhyphen"/>lice, that he ſhould command his Souldiers to punch me forward, when neither they nor I could go any further. The Speaker being got into his Coach, they returned back through the Hall into the Old Pallace yard, where we met with the other part of the Com<g ref="char:EOLhyphen"/>pany, and then marcht away to white Hall: and then I was com<g ref="char:EOLhyphen"/>mitted to the Lievt. Generals Marſhal to his own Regiment, where I was continued from Saturday the 26 of May, till Tueſday the 5 of June, on which day the Lievt. Generals Marſhal deliver<g ref="char:EOLhyphen"/>ed me up to the Marſhal General, and there I remained till Mun<g ref="char:EOLhyphen"/>day the 11. of this inſtant June, 1649. in all 17. dayes in the com<g ref="char:EOLhyphen"/>mon Goal, without a bed; and nothing laid to my charge.</p>
+            <p>But I ſhould have told you that the Lievt. General (about two hours after I was committed) ſent a Captain of the Army to me, who took me out as if he would carry me to the Lord Preſident, inquiring of me what I was committed for? I told him I did not know, only I did conjecture, (meaning the delivering of Capt. <hi>Brayes</hi> Appeal,) and I thought that it was a truth, for as much as that I did not know ſo much as any cullour for any thing elſe. And when he heard me ſay ſo, he anſwered me No, that was not the cauſe: but it was for breaking of Col. <hi>Reynolds</hi> Regiment of Horſe. I told him No, that could not be the cauſe. So when he had been at the Lord Preſidents, and ſpoke two or three words to him, for he had left me at the dore with a foot Souldier, and the Marſhals man.
+<pb facs="tcp:165254:5"/> So when he came forth, we returned back to White-hall, and then he told me, that I muſt continue there till munday two of the clock, at which time the Councel of State would ſit; when munday came, there was no order for the Marſhal to bring me before the Councel of State; but when the Marſhal ſaw the Lieut. Gen. leave the Councel, and was going away, he ran after him, and told him, that he had one Cornet <hi>Chiſman</hi> under his charge, commited by his Honor, he made him anſwer, that he ſhould wait upon the Coun<g ref="char:EOLhyphen"/>cel of State, to to ſee what their pleaſures would be; my keeper returning me this anſwer, I took my pen, and writ a note to the Councel, and it was delivered to the Lord Preſident, he returned me this anſwer, that the next day I ſhould be call'd, and according<g ref="char:EOLhyphen"/>ly ſo I was, four or five times before I was carried over by my keep<g ref="char:EOLhyphen"/>er: the Sergeant at Armes came to enquire whether I was come or no, and when he underſtood I was at the dore, he came forth and asked the Marſhal whether he had any accuſation againſt me? the Marſhal made anſwer, no, he had nothing againſt me; ſo the Ser<g ref="char:EOLhyphen"/>geant returned in again, and a while after he came forth, and en<g ref="char:EOLhyphen"/>quired of the Marſhal whether he knew one Capt. <hi>Chaplain</hi> or no? for he thought he ſhould be a witneſs; the Marſhal told him no, ſo he went in again, and ſoon after came forth, and bid the Ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſhal return with me till the next day, then I returned back to my priſon, and there continued, ſtill adhering to my firſt thoughts wherefore I was impriſoned; and my Marſhal hearing me tell my friend the ſame, he ſaid no that is not the cauſe of your impriſonment, but it is for breaking Col. <hi>Reynolds</hi> Regiment of Horſe; by which I did underſtand that the Lieut. Gen. had fixt it wholy upon that, which did much amaze me, that ſuch a thing which never was, ſhould cauſe ſo ſtrange an operation upon the Lieut. Gen, as in ſuch a ſury to apprehend me, giving his ſouldiers order to abuſe me. But this aſperſion held about four or five daies, and vaniſhed, ſo I heard no more of it. The next ſuppoſed crime was, that I had ſaid ſomthing againſt the Parliament and Councel of State, which was told me by ſome who waited at the Councel dore, and this continued four or five daies longer. The next was, that I was apprehended for one of the chief in the late mutiny of the Army, and this was affirmd to me by the Marſhal General, he told me he heard ſo, and that I was active in Col. <hi>Harriſons</hi> and Commiſſary General <hi>Iretons</hi> Regi<g ref="char:EOLhyphen"/>ments; moreover, he heard that I was ſo dangerous a fellow, that
+<pb facs="tcp:165254:6"/> he thought I ſhould be ſent away to Peter-houſe. This crime, or rather ſlander, continued till munday the 11. of this inſtant June, at which time I was guarded forth of my priſon before the Court Marſhal, They had nothing to ſay to me, onely they asked me what I did at Windſor the laſt time I was there: I told them, that as I had known them formerly, and did judge many of them to be honeſt Gentlemen, and therefore I would ſpeak ſomthing for the ſatisfacti<g ref="char:EOLhyphen"/>on of them and my ſelf, but Gentlemen, to anſwer to your queſtions, I will not, knowing it to be the greateſt breach of my liberty that poſſibly can be, therefore I ſhall not anſwer to any ſuch thing; but I muſt needs tell you, that I was forced out of Arms by Col. <hi>Ray<g ref="char:EOLhyphen"/>nolds</hi> about two moneths ſince, with the reſt of the Troop I did be<g ref="char:EOLhyphen"/>long to, my Capt. being afore-hand caſt into priſon; ſo I took my leave of the Regiment at Banbury, and went directly into Hamp<g ref="char:EOLhyphen"/>ſhire, where I continued two or three daies with my wife, and then came for London, where I continued almoſt a moneth, and ſo re<g ref="char:EOLhyphen"/>turned into Hampſhire again, and ſtayed there three daies longer, and then came for London. But Col. <hi>Backster</hi> told me, that I had not anſwered to the queſtion, and that it was but a little one, and I might eaſily anſwer it, I deſired him to forbear to ask me ſuch queſtions, for I would anſwer none; Then Col. <hi>Hewſon</hi> asked me, whether I had not bin at Windſor with one Capt. <hi>Brayfield,</hi> a Capt. of his Regiment, and whether I had not feaſted him and ſome of his Regiment, for he was ſure the Capt. had told him ſo much, and he would know of me whether I had or no; I anſwered, if I had, I would not tell him of it, then Col, <hi>Backster</hi> asked me, whether I did not know of a lying pamphlet that was forth, in which there were many lies as to the matter of my impriſonment; I anſwered that as to anſwer any thing as in order from the Court, I would not, neither did I know what ly were in that book, nevertheleſs to im<g ref="char:EOLhyphen"/>part to them the truth and manner of my being apprehended, I was very free they ſhould underſtand the truth of it, and I muſt needs tell y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u that I was moſt unjuſtly and tyranically apprehended, and have bin kept in priſon 17. daies, and never came within a bed, and that the gr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ateſt part of the time I had no better lodging than a bord and a narrow b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nch to ly upon, which hath much endangered my health; So looking about me, told them, that it was very ſtrange to me, that they had not witneſſes all that time, but muſt examine me upon interrogatories: Then there was one of the Court anſwered,
+<pb facs="tcp:165254:6"/> that the Army had bin out of Town, and they had bin very buſie, and had not ſo much liberty: then there ſtood up one of their ſo<g ref="char:EOLhyphen"/>ciety, whom I perceived to ſtand more for perſons than for Juſtice, of which ſort there are too many both in Army and elſe-where (the which this poor bleeding Nation hath had woful experience of) So this creature made a ſpeech, and told the Court, that he deſired them to take notice of my words, for ſaith he, though it cannot be pro<g ref="char:EOLhyphen"/>ved that he was in this laſt mutiny, yet ſaid he, you may know by his ſpeech that he is one of them, and deſerveth the ſentence of the Court for what he hath ſpoken here, for he hath taxed a man whom we love entirely, a man who is honorable in our ſight, I know who he meaneth (ſaith he) its the ſecond man in our Army; nay (ſaid he) he is ſo impudent and bold, that he is not aſhamed to tell this Court even to our faces, that he is a Tyrant; So when he held his peace, I anſwered, Gentlemen, I confeſs had I taxed the meaneſt man in the Nation falſly, I had deſerved to be ſentenced to purpoſe, but I muſt needs tell you, if ſo be the greateſt man in the Nation walk ſo towards me, he muſt bear his burden; and truly Gentlemen, you may remember ir was a grand blemiſh formerly in our Kings, and the great burden that was laid upon them, that in their wrath they would take a man by the ſhoulder, and ſay, Take him away, hang him, without any viſible Authority of the Nation; but the Lieut. Gen. did command his Souldiers to abuſe me, and in effect, to mur<g ref="char:EOLhyphen"/>der me, for he bade them punch me, and punching a man with hal<g ref="char:EOLhyphen"/>berds will eaſily murder any man, for the ſouldiers had halberds, if they had punctually obſerved the Lieut. Gen. command; ſo they bade me hold my peace, and no more of that, meaning the com<g ref="char:EOLhyphen"/>paring the Lieut. Gen. actions to our former Kings: Then there ſtept up another of the Court, and ſaid, Gentlemen, I have known this man formerly, and I believe he is one of that party (though I would not make parties, yet) I know he is of that party, for he hath bin with Capt. <hi>Bray,</hi> and is one of his party: yes Sir (ſaid I was his Cornet till I was forced out of Arms, and that Capt. <hi>Bray</hi> was ta<g ref="char:EOLhyphen"/>ken from his Troop, and caſt into priſon. So the Court deſired that man to hold his peace. Then Col. <hi>Backster</hi> asked me whether I did not bring ſome papers from VVindſor to London? I told him, that though as in Order from the Court I would not Anſwer one word to any ſuch thing, yet <hi>I</hi> would rehearſe to them what <hi>I</hi> had already publiſhed to all <hi>I</hi> knew, and was willing they ſhould know
+<pb facs="tcp:165254:7"/> alſo: and truly Gentlemen (ſaid I) with a great deal of difficulty I obtained the ſight of Capt. <hi>Bray,</hi> and finding him in a very ſad condition (which was a great ſhame that ſuch a man as he who had bin ſo faithful to this Nation, ſhould now ly in a priſon and periſh) he deſired me to carry his third Appeal for Juſtice, and deliver it to the Speaker of the Parliament; and accordingly I did, and had ſom<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> words with the Speaker, who did approve of it very well, and he told me, that he would do his endeavor, and that he would propoſe it to the Houſe; and truly, if he had bin minded to have commited me, he might have done it; But he had no power ſaid Col. <hi>Backster.</hi> Sir (ſaid I) he might if he would, for I was walk<g ref="char:EOLhyphen"/>ing at the Parliament dore, and in Weſtminſter-hall, till the Houſe did riſe: But (ſaid Col. <hi>Backster</hi>) you could not be found, for you w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re every-where ſought for. I anſwered, that could not be, for I ſpake to the Speaker when he came out of the Houſe, and asked him whether he had done any thing for Capt. <hi>Bray,</hi> he anſwered, No, and then his Gard of Halbardeers were with him, and if he would have commited me he might: So there was no anſwer made but commanded me forth of dores, where I continued almoſt half an hour, and then was called in again, and the Judge Advocate ſaid unto me, M. <hi>Chiſman,</hi> the Court hath ordered your enlargement upon Bayl; I pauſed a little upon it, and taking notice of their over-ruling power by the Sword, it being in vain for me to con<g ref="char:EOLhyphen"/>tend, as alſo how exceedingly my health was endangered, by rea<g ref="char:EOLhyphen"/>ſon of the ill accomodation I had in the priſon, cauſed me to ac<g ref="char:EOLhyphen"/>cept of their proffer; then they told me, that they did aſſure me t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey would draw up my Charge ſo ſoon as poſſibly they could, which ſhould not be long; So I took my leave of them, and ſtayed two dayes and two nights, before I could get my Bond made by the Judge Advocate; In which time they had ſought out far and neer for ſome Accuſation againſt me, and after all, they ſent a letter to Colonel <hi>Harriſon,</hi> to know how I beha<g ref="char:EOLhyphen"/>ved my ſelf when I was in his Regiment; and when there was nothing to be found, they let me forth upon M. <hi>Stephen Sprats</hi> coming in bonds for me, to appear at the Court Mar<g ref="char:EOLhyphen"/>tial of his Excellencie the Lord General, to be held at the Head-Quarters, upon Munday morning next, and ſo from Court day to Court day, to hear the Judgement of the ſaid Court, concerning a Charge exhibited againſt me.</p>
+            <pb facs="tcp:165254:7"/>
+            <p>So upon Munday the eighteenth of this inſtant June, I appear<g ref="char:EOLhyphen"/>ed at the Court Martial, and deſired the Clerk to acquaint the Court with it. So after I had waited there a little while, I met with the Marſhal General, and told him, I was come ac<g ref="char:EOLhyphen"/>cording to my engagement; he ſaid, he would acquaint the Court with it; then I went to a friends houſe, and ſo return<g ref="char:EOLhyphen"/>ed back; But the Court being riſen, I went to the Clerk, and asked him whether the Court had done any thing as to my buſineſs, he told me yes, the Court had ordered my diſcharge, and that I ſhould have my bond in, and accordingly I had.</p>
+            <p>And ſo the Lord be merciful to us, and keep ut from ſuch Courts of Juſtice, <hi>which will take no wrong, nor do no right.</hi>
+            </p>
+            <closer>
+               <signed>Chriſtopher Chiſman.</signed>
+            </closer>
+            <pb facs="tcp:165254:8"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:165254:8"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:165254:9"/>
+            <head>The Coppy of a Letter, ſent to the Lievt. Gen. <hi>Cromwel:</hi>
+            </head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>IF it may pleaſe your Honour to vouchſafe the reading of theſe few lines, (though I confeſſe you as far exceed me in this Earthly Glory, as doth the Sun in his brighteſt hue exceed the moſt dim and weakest Star): your Honour will (I hope) be ſatisfied in what I expreſſe at this time: For which end I beſeech you Sir conſider ſe<g ref="char:EOLhyphen"/>riouſly what was the cauſe we firſt ingaged in this unhappy War; (and ſo we may call it, becauſe it hath produced no better effect, as yet, but only diſatisfaction to all parties) was it not impartial Ju<g ref="char:EOLhyphen"/>ſtice, which we firſt undertook? and was it not for declaring for that, your Honour was firſt gain'd? How did all the People of God eſteem of you whileſt you kept cloſe to principles of Juſtice and Righteouſneſſe? Your Name was as precious oyntment poured forth where ever you were ſpoken of, ſo long as you did value the favour of God, and the countenance of his People to be more worth than all the Honour and riches of this World.</p>
+            <p>I beſeech you Sir conſider of theſe things before it be too late, and you wrong your ſelf, with all that have owned you; for I ſee all peo<g ref="char:EOLhyphen"/>ple begin to leave you: and I fear you will (like the late King) leave an odium upon your poſterity, unleſſe you return to your former pro<g ref="char:EOLhyphen"/>feſſed Principles of Impartial Juſtice and Righteouſneſſe; which are the witneſſes of God upon earth.</p>
+            <p>I pray you Sir, call to mind your cruel apprehending of me the <hi>26.</hi> of May laſt, when as I was paſſing quietly about my imployments, in Weſtminſter Hall, taking me by the ſhoulder with a great deal of violence, commanding your Souldiers to take hold of me, as if I had been the verieſt Rogue in the World: And when the violence of your Souldiers cauſed me to complain, I deſired them to uſe me civilly, and that they would not punch me, aſſuring them I would go willing<g ref="char:EOLhyphen"/>ly with them: your ſelf being near called out to the Souldiers very earneſtly, ſaying, Punch him on, Punch him; which was in effect no leſſe than to command them to murder me: (for the punching with Halberts will eaſily murder a man, had they obſerved your commands according to the manner of your expreſſion, which would have cauſed the moſt rational man in the world to judge of me to be
+<pb facs="tcp:165254:9"/> no other than one who would have even deſtroyed the Nation at a blow, (as thoſe in the Powder Plot) and ſo deſerved to have my brains knockt out, whereſoever I were met in the Streets: and not only ſo in your expoſing me to death, by your injunctions upon your Souldi<g ref="char:EOLhyphen"/>ers to do their pleaſure upon me.</p>
+            <p>But afterwards committing me to Priſon, and there to let me ly eighteen daies, without coming into a bed: my lodging being for the greateſt part a narrow board to ly upon, in a common Priſon, among all ſo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts af malefactors.</p>
+            <p>And beſides this, I was moſt unjuſtly forced out of Arms, by Col. <hi>Reynolds,</hi> without ſatisfaction, notwithſtanding my having been ſeven moneths without pay, of which time I was Cornet to Capt. <hi>Bray,</hi> from the <hi>12</hi> of December, <hi>1648.</hi> till the <hi>10</hi> of April <hi>1649.</hi> having the late King under my charge two miles from Hurſt Caſtle, and might have made a price of him, as the times were then, had I not been faithfull to my Truſt: and yet never received one penny of pay for the time I was Cornet.</p>
+            <p>Theſe, with other hard meaſure which I have received ſince this War, as being once in your Honours own Troop, about <hi>14.</hi> or <hi>15.</hi> weeks, and never received a penny of Pay, with the expence of <hi>20.</hi> pounds; and then turned out as a Supernumerary, without a penny of Pay, and after all this to be ſo ill requited, as to be caſt into a Pri<g ref="char:EOLhyphen"/>ſon, and there to ly eighteen dayes, without any thing laid to my charge; and at laſt to be brought before a Court, and there to be examined upon things I never knew of, without witneſſes, or any thing they knew to lay to my charge.</p>
+            <p>I beſeech your Honour conſider how unjuſt theſe things are, con<g ref="char:EOLhyphen"/>trary to all Declarations of Parliament, and Ingagements of the Army, the Laws of God, of Nature, and againſt the Lawes of the Nation; in which I aſſure you (though I intreat you as a friend, yea as a Chriſtian, in the bonds of Love, to do me Juſtice, yet) I know Juſtice Commands.</p>
+            <p>Sir, I cannot paſſe by ſuch palpable Violations of the Lawes and Liberties of my Native Country: And I do proteſt in the preſence of the Eternal God, the impartial and righteous Iudge, who hath laid as great ingagements upon me to proſecute you for this unpara<g ref="char:EOLhyphen"/>leld murdering of the Laws and Liberties of this my Native Coun<g ref="char:EOLhyphen"/>try, as ever I could be ingaged for the proſecuting of the Law upon any whomſoever he ſhould be that ſhould murder my Father or Mo<g ref="char:EOLhyphen"/>ther:
+<pb facs="tcp:165254:10"/> yea, I am more deeply ingaged to proſecute the former than the latter.</p>
+            <p>I beſeech you Sir conſider of theſe things, and lay them to heart, that ſo you may be inſtrumental for the good of this poor Nation.</p>
+            <p>Sir, God having thus drawn forth my heart, to write the Truth plainly to you: and if it be not hid from your eyes, I ſhall receive a ſeaſonable Anſwer; if not, I am ingaged to proſecute: but I ſhould rejoyce to ſee the contrary: Till which time, and ever, I leave you to be diſpoſed of by him in whom my ſoul delighteth. And am really</p>
+            <closer>
+               <signed>Yours to ſerve in the bonds of Love, till death, if you are for impartial Iu<g ref="char:EOLhyphen"/>ſtice and Righteouſneſſe, in this the Nation. <hi>Chriſtopher Chiſman.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <p>I beſeech you Sir, Let not the greatneſſe of your ſelf, and the meanneſſe of me, be any prejudice to Iuſtice. For my part, I think he is but the ſhadow of a Man, and no Man, whatſoever he be, that hath ingaged in the late War, and now is afraid to demand Iuſtice againſt any whomſoever he be. Sir, I am really what I was, and what I firſt propounded in War, I own ſtill: I fear the face of no man, in order to Iuſtiee; It was for injuſtice I fought ſo long againſt the late King: I will dy rather than I will live a ſlave. There<g ref="char:EOLhyphen"/>fore I pray you (Sir) ſeriouſly conſider what you have done: You its no diſhonour for a great man to be taxed in order to Iuſtice.</p>
+            <closer>
+               <salute>Sir </salute> 
+               <signed>I am yours to live and dy with you for Iuſtice in this my Native Country. <hi>Chriſtopher Chiſman.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb facs="tcp:165254:10"/>
+            <head>POSTSCRIPT.</head>
+            <p>DEar Friends, and Countrymen, I having been ſo violently apprehended, and caſt into Priſon, and kept there eighteen dayes, without any Authority from the Nation, or for any fault I had committed, (as in my Narrative, and Letter is manifeſted:) and finding the ſame evil diſpoſition in thoſe men who rule over us, to do the like to any of the Free Commoners of England, I was extreamly bound in Conſcience to my Native Countrymen, as in their behalf to demand ſatisfaction of the Lievt. General <hi>Cromwel,</hi> for the unparalleld force and violence which he had committed up<g ref="char:EOLhyphen"/>on the Laws and Liberties of my Native Country: as alſo in ſo do<g ref="char:EOLhyphen"/>ing, for the particular wrong he had done to me: and according<g ref="char:EOLhyphen"/>ly I drew up the fore-going Letter, according to Truth, (though in a very plain form) hoping that the Lievt. Gen. had not been ſo bad as was reported: and on Fryday the 22 of Iune laſt, I ſent my Wife and a Friend (with her) with the Letter, who accordingly preſented it into the Lievt. Generals own hands. On Munday the 25. of June, I went my ſelf to the Lievt. Gen. and after waiting there part of the day, I met with him walking in the Garden, who (when I had done my duty to him) was pleaſed to give me the li<g ref="char:EOLhyphen"/>berty of ſpeech: after which, I told his Honour that I had mani<g ref="char:EOLhyphen"/>feſted my grievances in a Letter by my Wife, who had delivered it into his Honours hands two daies before. He anſwered me that he had not read it. Then I deſired his Honour to give me ſa<g ref="char:EOLhyphen"/>tisfaction for the wrong he had done me, in the violent appreh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd<g ref="char:EOLhyphen"/>ing of me, on the 26. of May laſt, as I was quietly paſſing about my imployments, in Weſtminſter Hall, whereby I am rendred to the People as a moſt notorious Rogue. He anſwered, that for what he had done he was glad. Which anſwer did take off my hopes of e<g ref="char:EOLhyphen"/>ver ſeeing him do any good for the Nation, unleſſe God do con<g ref="char:EOLhyphen"/>vince him of his errour, when as he ſhould ſin againſt ſuch appa<g ref="char:EOLhyphen"/>rent light, both of the Laws of God, and of Nature, againſt the known Laws of the Nation, and againſt the many Declarations, Vowes, and Improcations which he hath made in Parliament, that the wrath and vengeance of Heaven and Earth, may fall upon his and their heads, if they did not maintain the fundamental Laws of
+<pb facs="tcp:165254:11"/> the Nation. Yea, and his, with the Armies Declariton, the 14. of June, from the Army to the Parliament, pag. 45. in theſe words, <hi>And more particularly, we cannot but deſire that all ſuch as are im<g ref="char:EOLhyphen"/>priſoned for any pretended miſdemeanour, may be put into a ſpeedy way for a juſt Hearing and Tryal: and ſuch as ſhall appear to have been unjuſtly and unduly impriſoned may (with their Liberties) have ſome reaſonable ſatisfaction according to their ſufferings, and the demerits of their oppoſers.</hi>
+            </p>
+            <p>And in their Declaration from Reading, the 18 of July, they call the Parliaments <hi>committing of men not to be according to the regular courſe of Law; and that if upon a Legal Tryal it ſhall ap<g ref="char:EOLhyphen"/>pear they are wrongfully or unduly impriſoned, they may have re<g ref="char:EOLhyphen"/>parations according to their ſufferings.</hi>
+            </p>
+            <p>But all the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Ingagements are nothing to the Lievt. Gen. and truly if the Parliament do not queſtion theſe m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, I beleeve they will fall with infamy, both they and their Poſterity.</p>
+            <p>The Lievt. Gen. would not give me ſatisfaction: but after a great deal <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f diſcourſe to no purpoſe, he would have me Petition the L. <hi>Fairfax,</hi> telling me that he was to go for Ireland, and that if I would ingage my ſelf to be an honeſt man, and ſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k the Peace of the Army, I ſhould ſee what he would do for me. I anſwered him, that I knew not the man that c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld tax me with any miſde<g ref="char:EOLhyphen"/>meanour; or that I had ever been a diſturber of the Nation. Nay, (ſaid he) if it be ſo, do what you will. So we parted.</p>
+            <p>Now I do once more earneſtly crave Iuſtice againſt Mr <hi>Oliver Cromwel,</hi> Lievt. Gen. of the Engliſh Forces: he is one of the <hi>A<g ref="char:EOLhyphen"/>chans</hi> that trouble the Peace of Iſrael; and if the Parliament ſend him to Ireland, they will be guilty in the letting eſcape a man of bloud; Therefore be wiſe, and ſend for him back (if he be gon; and execute Iuſtice on him, for murdering of the Lawes and Liberties of our Native Country.</p>
+            <p>As for the Councel of War, I ſhall leave them: for by their car<g ref="char:EOLhyphen"/>riage to me they do divulge to the World, that they intend to doe iuſtice upon all, but for none: for though I tax <hi>Cromwel</hi> with ty<g ref="char:EOLhyphen"/>ranny, and that I had b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en 18. daies in Priſon, and did wonder they ſhould call me before them, having neither Witneſſe, nor any thing to lay to my charge: yet theſe unjuſt men (the Councel of War) would thruſt me out, without any ſatisfaction, or making good their Religious Reſolutions, Iune 14. in theſe words, <hi>That we may be
+<pb facs="tcp:165254:11"/> no longer the diſſatisfaction of our Friends, as to the compleatment of the Liberties and Peace of the Nation; which is that bleſſing of God, then which (of all Worldly things) nothing is more dear unto us, or more precious in our thoughts: we having hitherto thought all our preſent injoyments whether Life or Livelihood, or neereſt relations, a price but ſufficient to the purchaſe of ſo rich a bleſſing: that we and all the Free-born People of this Nation, may ſit down in quiet under our Vines, and under the glorious adminiſtration of Iuſtice and Righteouſneſſe, and in full poſſeſſion of thoſe fundamental Rights and Liberties, without which we can have little hopes (as to hu<g ref="char:EOLhyphen"/>mane conſideration) to injoy either any comforts of Life, or ſo much as Life it ſelf, but at the pleaſures of ſome men, ruling meerly ac<g ref="char:EOLhyphen"/>cording to their wills and power.</hi>
+            </p>
+            <p>I beſeech you take notice of theſe men, what Conſcience they make of their waies, that dare take the Name of the impartial and juſt God, in their mouths, and walk ſo contrary; when as they pre<g ref="char:EOLhyphen"/>tend ſitting in Councel to do Juſtice: and I know that they pro<g ref="char:EOLhyphen"/>feſſe themſelves Chriſtians, and ought not to have reſpect of perſons, (in Judgement.) But it appears to me, that they ſit there to purge the Earth, that there may be no wicked upon the face thereof, but themſelves.</p>
+            <p>Therefore I would adviſe theſe man (with all ſpeed) to cauſe the Declaration of the 14 of June, 1648. with all other their honeſt Declarations, to be burnt by the hand of the common Hang-man, b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing the great obſtructions to the waies of wickedneſſe; ſo that for the time to come, neither my ſelf nor any other may cudgel them with t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eir own weapons.</p>
+            <closer>
+               <signed>By me <hi>Chriſtopher Chiſman.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
